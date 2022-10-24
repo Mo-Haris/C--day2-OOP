@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Overriding\bin\Debug\Overriding.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Overriding\bin\Debug\Overriding.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Overriding\bin\Debug\Overriding.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Overriding\obj\Debug\Overriding.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Overriding\obj\Debug\Overriding.pdb

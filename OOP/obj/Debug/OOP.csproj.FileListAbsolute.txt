@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\OOP\bin\Debug\OOP.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\OOP\bin\Debug\OOP.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\OOP\bin\Debug\OOP.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\OOP\obj\Debug\OOP.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\OOP\obj\Debug\OOP.pdb

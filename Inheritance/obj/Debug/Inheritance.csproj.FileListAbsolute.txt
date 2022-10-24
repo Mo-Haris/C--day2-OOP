@@ -1,0 +1,7 @@
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\mh800\OneDrive\Desktop\Novus-Files\C#-day2\Inheritance\obj\Debug\Inheritance.pdb
